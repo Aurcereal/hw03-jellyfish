@@ -1,6 +1,6 @@
 # Procedural Jellyfish
 
-INSERT VID HERE
+https://github.com/user-attachments/assets/8d057074-96b4-4d2b-b6e1-c9c2ca5408d2
 
 The jellyfish is comprised of five separate pieces: the bell, arms, veins, tentacles, and organs.
 
